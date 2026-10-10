@@ -135,8 +135,8 @@
       "path": "assets/img-004.jpg"
     },
     {
-      "id": "pmv2wb9nub",
-      "name": "_DSC4400 copia.jpg",
+      "id": "pmv2wbhrr10",
+      "name": "_DSC4396 copia 1.jpg",
       "section": "getting-ready",
       "width": 2000,
       "height": 3000,
@@ -146,8 +146,8 @@
       "path": "assets/img-005.jpg"
     },
     {
-      "id": "pmv2wbhrr10",
-      "name": "_DSC4396 copia 1.jpg",
+      "id": "pmv2wb9nub",
+      "name": "_DSC4400 copia.jpg",
       "section": "getting-ready",
       "width": 2000,
       "height": 3000,
@@ -212,8 +212,8 @@
       "path": "assets/img-011.jpg"
     },
     {
-      "id": "pmv2wb8vp9",
-      "name": "_DSC4507 copia.jpg",
+      "id": "pmv2wbgkav",
+      "name": "_DSC4505 copia 1.jpg",
       "section": "getting-ready",
       "width": 2000,
       "height": 3000,
@@ -223,8 +223,8 @@
       "path": "assets/img-012.jpg"
     },
     {
-      "id": "pmv2wbgkav",
-      "name": "_DSC4505 copia 1.jpg",
+      "id": "pmv2wb8vp9",
+      "name": "_DSC4507 copia.jpg",
       "section": "getting-ready",
       "width": 2000,
       "height": 3000,
@@ -256,8 +256,8 @@
       "path": "assets/img-015.jpg"
     },
     {
-      "id": "pmv2wbfbor",
-      "name": "_DSC4566 copia.jpg",
+      "id": "pmv2wbfr5s",
+      "name": "_DSC4543 copia.jpg",
       "section": "getting-ready",
       "width": 3000,
       "height": 2000,
@@ -267,8 +267,8 @@
       "path": "assets/img-016.jpg"
     },
     {
-      "id": "pmv2wbfr5s",
-      "name": "_DSC4543 copia.jpg",
+      "id": "pmv2wbfbor",
+      "name": "_DSC4566 copia.jpg",
       "section": "getting-ready",
       "width": 3000,
       "height": 2000,
@@ -311,15 +311,15 @@
       "path": "assets/img-020.jpg"
     },
     {
-      "id": "pmv2wb8lf8",
-      "name": "_DSC4782 copia.jpg",
+      "id": "pmv2wbdv2n",
+      "name": "_DSC4716 copia.jpg",
       "section": "getting-ready",
-      "width": 3000,
-      "height": 2000,
+      "width": 2000,
+      "height": 3000,
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-001.jpg"
+      "path": "assets/img-021.jpg"
     },
     {
       "id": "pmv2wbdiem",
@@ -330,18 +330,18 @@
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-021.jpg"
+      "path": "assets/img-022.jpg"
     },
     {
-      "id": "pmv2wbdv2n",
-      "name": "_DSC4716 copia.jpg",
+      "id": "pmv2wb8lf8",
+      "name": "_DSC4782 copia.jpg",
       "section": "getting-ready",
-      "width": 2000,
-      "height": 3000,
+      "width": 3000,
+      "height": 2000,
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-022.jpg"
+      "path": "assets/img-001.jpg"
     },
     {
       "id": "pmv2wbd2nl",
@@ -377,22 +377,22 @@
       "path": "assets/img-025.jpg"
     },
     {
-      "id": "pmv2wbbxbh",
-      "name": "_DSC4934 copia 1.jpg",
+      "id": "pmv2wbc6mi",
+      "name": "_DSC4925 copia 1.jpg",
       "section": "getting-ready",
-      "width": 2000,
-      "height": 3000,
+      "width": 3000,
+      "height": 2000,
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
       "path": "assets/img-026.jpg"
     },
     {
-      "id": "pmv2wbc6mi",
-      "name": "_DSC4925 copia 1.jpg",
+      "id": "pmv2wbbxbh",
+      "name": "_DSC4934 copia 1.jpg",
       "section": "getting-ready",
-      "width": 3000,
-      "height": 2000,
+      "width": 2000,
+      "height": 3000,
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
@@ -443,8 +443,8 @@
       "path": "assets/img-031.jpg"
     },
     {
-      "id": "pmv2wb8ai7",
-      "name": "_DSC5035 copia.jpg",
+      "id": "pmv2wba09c",
+      "name": "_DSC4995 copia.jpg",
       "section": "getting-ready",
       "width": 2000,
       "height": 3000,
@@ -454,8 +454,8 @@
       "path": "assets/img-032.jpg"
     },
     {
-      "id": "pmv2wba09c",
-      "name": "_DSC4995 copia.jpg",
+      "id": "pmv2wb8ai7",
+      "name": "_DSC5035 copia.jpg",
       "section": "getting-ready",
       "width": 2000,
       "height": 3000,
@@ -487,17 +487,6 @@
       "path": "assets/img-035.jpg"
     },
     {
-      "id": "pmv2wb5qj1",
-      "name": "_DSC5188 copia.jpg",
-      "section": "getting-ready",
-      "width": 3000,
-      "height": 2000,
-      "focusX": 50,
-      "focusY": 50,
-      "fit": "cover",
-      "path": "assets/img-003.jpg"
-    },
-    {
       "id": "pmv2wb74m4",
       "name": "_DSC5107 copia.jpg",
       "section": "getting-ready",
@@ -518,6 +507,17 @@
       "focusY": 50,
       "fit": "cover",
       "path": "assets/img-037.jpg"
+    },
+    {
+      "id": "pmv2wb5qj1",
+      "name": "_DSC5188 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-003.jpg"
     },
     {
       "id": "pmv2wb69z2",
