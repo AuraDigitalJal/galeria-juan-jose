@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "studioVersion": "1.4.18",
+  "studioVersion": "1.4.26",
   "optimizer": {
     "engine": "Aura Digital v5.6.4",
     "profileKB": 500,
@@ -48,6 +48,7 @@
       "layout": "editorial",
       "highlightsEnabled": true,
       "highlightsCount": 6,
+      "galleryDisplay": "expanded",
       "bannerPath": "assets/img-002.jpg"
     },
     {
@@ -60,6 +61,7 @@
       "layout": "editorial",
       "highlightsEnabled": false,
       "highlightsCount": 6,
+      "galleryDisplay": "manual",
       "bannerPath": "assets/img-003.jpg"
     },
     {
@@ -72,6 +74,7 @@
       "layout": "masonry",
       "highlightsEnabled": false,
       "highlightsCount": 6,
+      "galleryDisplay": "manual",
       "bannerPath": ""
     },
     {
@@ -84,6 +87,7 @@
       "layout": "carousel",
       "highlightsEnabled": false,
       "highlightsCount": 6,
+      "galleryDisplay": "manual",
       "bannerPath": ""
     },
     {
@@ -96,6 +100,7 @@
       "layout": "masonry",
       "highlightsEnabled": false,
       "highlightsCount": 6,
+      "galleryDisplay": "manual",
       "bannerPath": ""
     }
   ],
@@ -516,11 +521,11 @@
     "urls": []
   },
   "music": {
-    "enabled": false,
-    "path": "",
-    "name": "",
-    "title": "",
-    "artist": "",
+    "enabled": true,
+    "path": "assets/music.mp3",
+    "name": "AUDIO-2026-10-10-14-42-01.mp3",
+    "title": "La Flecha",
+    "artist": "jhonyarreguin9",
     "playerVisible": true,
     "autostart": false,
     "loop": true
