@@ -23,7 +23,7 @@
     "title": "Galería digital",
     "description": "Juan José Arreguin ",
     "imageSource": "photo:pmv2wbi9d11",
-    "publicUrl": "https://auradigitaljal.com/galeria-juan-jose/",
+    "publicUrl": "http://auradigitaljal.com/galeria-juan-jose/",
     "imagePath": "og-preview.jpg"
   },
   "event": {
@@ -124,17 +124,6 @@
       "path": "assets/img-002.jpg"
     },
     {
-      "id": "pmv2wbihq12",
-      "name": "_DSC4362 copia 1.jpg",
-      "section": "getting-ready",
-      "width": 3000,
-      "height": 2000,
-      "focusX": 50,
-      "focusY": 50,
-      "fit": "cover",
-      "path": "assets/img-004.jpg"
-    },
-    {
       "id": "pmv2wbhrr10",
       "name": "_DSC4396 copia 1.jpg",
       "section": "getting-ready",
@@ -143,18 +132,18 @@
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-005.jpg"
+      "path": "assets/img-004.jpg"
     },
     {
-      "id": "pmv2wbhizz",
-      "name": "_DSC4427 copia 1.jpg",
+      "id": "pmv2wbihq12",
+      "name": "_DSC4362 copia 1.jpg",
       "section": "getting-ready",
-      "width": 2640,
-      "height": 1760,
+      "width": 3000,
+      "height": 2000,
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-006.jpg"
+      "path": "assets/img-005.jpg"
     },
     {
       "id": "pmv2wb9nub",
@@ -162,6 +151,17 @@
       "section": "getting-ready",
       "width": 2000,
       "height": 3000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-006.jpg"
+    },
+    {
+      "id": "pmv2wbhizz",
+      "name": "_DSC4427 copia 1.jpg",
+      "section": "getting-ready",
+      "width": 2640,
+      "height": 1760,
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
@@ -256,8 +256,8 @@
       "path": "assets/img-015.jpg"
     },
     {
-      "id": "pmv2wbfbor",
-      "name": "_DSC4566 copia.jpg",
+      "id": "pmv2wbfr5s",
+      "name": "_DSC4543 copia.jpg",
       "section": "getting-ready",
       "width": 3000,
       "height": 2000,
@@ -267,8 +267,8 @@
       "path": "assets/img-016.jpg"
     },
     {
-      "id": "pmv2wbfr5s",
-      "name": "_DSC4543 copia.jpg",
+      "id": "pmv2wbfbor",
+      "name": "_DSC4566 copia.jpg",
       "section": "getting-ready",
       "width": 3000,
       "height": 2000,
@@ -322,17 +322,6 @@
       "path": "assets/img-021.jpg"
     },
     {
-      "id": "pmv2wb8lf8",
-      "name": "_DSC4782 copia.jpg",
-      "section": "getting-ready",
-      "width": 3000,
-      "height": 2000,
-      "focusX": 50,
-      "focusY": 50,
-      "fit": "cover",
-      "path": "assets/img-001.jpg"
-    },
-    {
       "id": "pmv2wbdiem",
       "name": "_DSC4752 copia.jpg",
       "section": "getting-ready",
@@ -344,15 +333,15 @@
       "path": "assets/img-022.jpg"
     },
     {
-      "id": "pmv2wbcnbk",
-      "name": "_DSC4875 copia.jpg",
+      "id": "pmv2wb8lf8",
+      "name": "_DSC4782 copia.jpg",
       "section": "getting-ready",
       "width": 3000,
       "height": 2000,
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-023.jpg"
+      "path": "assets/img-001.jpg"
     },
     {
       "id": "pmv2wbd2nl",
@@ -363,18 +352,18 @@
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-024.jpg"
+      "path": "assets/img-023.jpg"
     },
     {
-      "id": "pmv2wbbxbh",
-      "name": "_DSC4934 copia 1.jpg",
+      "id": "pmv2wbcnbk",
+      "name": "_DSC4875 copia.jpg",
       "section": "getting-ready",
-      "width": 2000,
-      "height": 3000,
+      "width": 3000,
+      "height": 2000,
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-025.jpg"
+      "path": "assets/img-024.jpg"
     },
     {
       "id": "pmv2wbcgoj",
@@ -385,7 +374,7 @@
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-026.jpg"
+      "path": "assets/img-025.jpg"
     },
     {
       "id": "pmv2wbc6mi",
@@ -396,18 +385,18 @@
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-027.jpg"
+      "path": "assets/img-026.jpg"
     },
     {
-      "id": "pmv2wbau2e",
-      "name": "_DSC4984 copia.jpg",
+      "id": "pmv2wbbxbh",
+      "name": "_DSC4934 copia 1.jpg",
       "section": "getting-ready",
-      "width": 3000,
-      "height": 2000,
+      "width": 2000,
+      "height": 3000,
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-028.jpg"
+      "path": "assets/img-027.jpg"
     },
     {
       "id": "pmv2wbbovg",
@@ -418,11 +407,22 @@
       "focusX": 50,
       "focusY": 50,
       "fit": "cover",
-      "path": "assets/img-029.jpg"
+      "path": "assets/img-028.jpg"
     },
     {
       "id": "pmv2wbbazf",
       "name": "_DSC4968 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-029.jpg"
+    },
+    {
+      "id": "pmv2wbau2e",
+      "name": "_DSC4984 copia.jpg",
       "section": "getting-ready",
       "width": 3000,
       "height": 2000,
@@ -476,8 +476,8 @@
       "path": "assets/img-034.jpg"
     },
     {
-      "id": "pmv2wb74m4",
-      "name": "_DSC5107 copia.jpg",
+      "id": "pmv2wb7gh5",
+      "name": "_DSC5100 copia.jpg",
       "section": "getting-ready",
       "width": 2000,
       "height": 3000,
@@ -487,8 +487,8 @@
       "path": "assets/img-035.jpg"
     },
     {
-      "id": "pmv2wb7gh5",
-      "name": "_DSC5100 copia.jpg",
+      "id": "pmv2wb74m4",
+      "name": "_DSC5107 copia.jpg",
       "section": "getting-ready",
       "width": 2000,
       "height": 3000,
@@ -496,17 +496,6 @@
       "focusY": 50,
       "fit": "cover",
       "path": "assets/img-036.jpg"
-    },
-    {
-      "id": "pmv2wb5qj1",
-      "name": "_DSC5188 copia.jpg",
-      "section": "getting-ready",
-      "width": 3000,
-      "height": 2000,
-      "focusX": 50,
-      "focusY": 50,
-      "fit": "cover",
-      "path": "assets/img-003.jpg"
     },
     {
       "id": "pmv2wb6mz3",
@@ -518,6 +507,17 @@
       "focusY": 50,
       "fit": "cover",
       "path": "assets/img-037.jpg"
+    },
+    {
+      "id": "pmv2wb5qj1",
+      "name": "_DSC5188 copia.jpg",
+      "section": "getting-ready",
+      "width": 3000,
+      "height": 2000,
+      "focusX": 50,
+      "focusY": 50,
+      "fit": "cover",
+      "path": "assets/img-003.jpg"
     },
     {
       "id": "pmv2wb69z2",
